@@ -17,8 +17,7 @@ end;
 
 procedure id;
 begin
-    writeln('Nama: Ketut Ary Sujaya');
-    writeln('NIM: E1R020058');
+    writeln('Nama: Ary');
     writeln;
 end;
 
